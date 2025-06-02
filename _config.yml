@@ -209,7 +209,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: Repositories
     values:
       layout: single
       author_profile: true
