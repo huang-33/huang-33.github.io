@@ -97,8 +97,8 @@ author_profile: true
     <div class="timeline-item">
       <div class="timeline-node"></div>
         <div class="content">
-                <h3>你好, EECS</h3>
-                <span class="time">2022 秋</span>
+                <h3>你好, SESS</h3>
+                <span class="time">2023 秋</span>
                 <p>入燕园，初窥计算机语言与 Github</p>
         </div>
     </div>
