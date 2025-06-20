@@ -58,7 +58,7 @@ author_profile: true
 
 <h2>下载专区</h2>
 <ul>
-  <li><a href="../files/北京大学2025春季课表.xlsx">北京大学2025年春季课表(可搜索)</a></li>
+  <li><a href="../files/北京大学2025秋季课表.xlsx">北京大学2025年春季课表(可搜索)</a></li>
 </ul>
 
 <h2>友链</h2>
